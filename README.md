@@ -32,5 +32,5 @@ class Human:
 
 
 wadil = Human('Wadil', 15)
-wadil.saluer('Il fait beau !') # Bonjour, je suis Wadil ! Il fait beau !
+wadil.saluer('Il fait beau !') # Bonjour, je suis Wadil ! Il fait beau ! 
 ```
